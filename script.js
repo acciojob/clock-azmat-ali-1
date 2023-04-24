@@ -1,5 +1,4 @@
 //your JS code here. If required.
-updateTime();
 function updateTime() {
   const now = new Date();
   const dateTimeString = now.toLocaleString();
